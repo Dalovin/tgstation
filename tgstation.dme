@@ -3138,6 +3138,7 @@
 #include "code\modules\vending\youtool.dm"
 #include "code\modules\zombie\items.dm"
 #include "code\modules\zombie\organs.dm"
+#include "code\Ninja gloves\Ninja gloves.dm"
 #include "interface\interface.dm"
 #include "interface\menu.dm"
 #include "interface\stylesheet.dm"
